@@ -1,3 +1,8 @@
 [build]
-  publish = "."
+  publish = "public"
   functions = "netlify/functions"
+
+[build.environment]
+  # Branch names are public metadata and may match ordinary site content.
+  # Keep scanning enabled for GH_TOKEN and all other credentials.
+  SECRETS_SCAN_OMIT_KEYS = "GH_BRANCH"
