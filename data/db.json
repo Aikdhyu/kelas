@@ -1,0 +1,20 @@
+{
+ "info":{"tag":"Semester 5 · Ganjil 2026","h":"Halo, TI-A!\nKelas kita, rumah kita.","p":"Jadwal, tugas, kas, dan kenangan, semua ada di sini."},
+ "pengumuman":[{"a":"Kuliah Jaringan pindah ke Lab 2","b":"Hari ini, 08.10"},{"a":"Rapat makrab Jumat 19.00","b":"Kemarin"}],
+ "ultah":[{"a":"Rani Putri","b":"21 Okt"},{"a":"Dimas Aditya","b":"28 Okt"}],
+ "jadwal":{"Senin":[{"a":"Basis Data","b":"08.00 · Lab 3 · Bu Sari"},{"a":"Pemrograman Web","b":"13.00 · Lab 1 · Pak Andi"}],"Selasa":[{"a":"Jaringan Komputer","b":"10.00 · R. 204 · Pak Hadi"}],"Rabu":[{"a":"Pemrograman Web","b":"08.00 · Lab 1 · Pak Andi"}],"Kamis":[{"a":"Basis Data","b":"10.00 · R. 201 · Bu Sari"},{"a":"Jaringan Komputer","b":"13.00 · Lab 2 · Pak Hadi"}],"Jumat":[]},
+ "ujian":[{"a":"Basis Data","b":"Lab 3 · 08.00","c":"3 Nov"},{"a":"Jaringan Komputer","b":"R. 204 · 10.00","c":"5 Nov"},{"a":"Pemrograman Web","b":"Lab 1 · 13.00","c":"7 Nov"}],
+ "matkul":[{"a":"Basis Data · 3 SKS","b":"Bu Sari, M.Kom","c":"💬 WA · 🔗 LMS"},{"a":"Jaringan Komputer · 3 SKS","b":"Pak Hadi, M.T.","c":"💬 WA · 🔗 LMS"},{"a":"Pemrograman Web · 4 SKS","b":"Pak Andi, M.Cs","c":"💬 WA · 🔗 LMS"}],
+ "dosen":[{"a":"Bu Sari","b":"Basis Data, data mining","c":"Konsul: Selasa 13–15"},{"a":"Pak Hadi","b":"Jaringan, keamanan","c":"Konsul: Rabu 09–11"},{"a":"Pak Andi","b":"Web, UI/UX","c":"Konsul: Kamis 10–12"}],
+ "tugas":[{"a":"Laporan ERD","b":"Basis Data","d":"2026-10-22","c":"Belum"},{"a":"Topologi jaringan","b":"Jaringan","d":"2026-10-25","c":"Proses"},{"a":"Landing page","b":"Web","d":"2026-10-18","c":"Selesai"}],
+ "kelompok":[{"a":"Proyek Web","b":"Rani, Dimas, Salsa, Fajar","c":"Kel. 2"},{"a":"Proyek Basis Data","b":"Bima, Nadya, Rafi, Tari","c":"Kel. 5"}],
+ "materi":[{"a":"Basis Data","b":"12 slide · 3 modul · catatan","c":"Drive ↗","u":"https://drive.google.com"},{"a":"Jaringan Komputer","b":"9 slide · 2 modul","c":"Drive ↗","u":"https://drive.google.com"},{"a":"Pemrograman Web","b":"10 slide · repo contoh","c":"Drive ↗","u":"https://drive.google.com"}],
+ "soal":[{"a":"UTS Basis Data 2025","b":"PDF · 4 halaman","c":"Unduh","u":""},{"a":"UAS Jaringan 2025","b":"PDF · 6 halaman","c":"Unduh","u":""},{"a":"Kuis Web 2025","b":"PDF · 2 halaman","c":"Unduh","u":""}],
+ "anggota":[{"a":"Rani","b":"Ketua"},{"a":"Dimas","b":"Sekretaris"},{"a":"Salsa","b":"Bendahara"},{"a":"Fajar","b":"Anggota"},{"a":"Nadya","b":"Anggota"},{"a":"Bima","b":"Anggota"},{"a":"Tari","b":"Anggota"},{"a":"Rafi","b":"Anggota"}],
+ "kas":[{"a":"Saldo awal","b":"2026-10-01","c":1045000},{"a":"Iuran Oktober","b":"2026-10-12","c":280000},{"a":"Print poster makrab","b":"2026-10-15","c":-75000}],
+ "agenda":[{"a":"Rapat makrab","b":"Jumat, 19.00 · Zoom","c":"23 Okt"},{"a":"Makrab angkatan","b":"Villa Puncak","c":"14 Nov"},{"a":"Notulen rapat 10 Okt","b":"Keputusan: iuran naik Rp 10rb","c":"Baca"}],
+ "voting":{"q":"Tempat makrab?","opts":[{"t":"Puncak","v":0},{"t":"Pantai","v":0}]},
+ "confess":[{"a":"Makasih yang kemarin bantuin benerin laptop 🙏","b":"2026-10-19T06:00:00Z"},{"a":"Semangat UTS semuanya!","b":"2026-10-18T09:00:00Z"}],
+ "galeri":[{"a":"🎉","b":"#ff7ab6"},{"a":"🏕️","b":"#7cd4ff"},{"a":"🍜","b":"#cbf35c"}],
+ "links":[{"a":"SIAKAD","b":"https://example.com"},{"a":"E-learning","b":"https://example.com"},{"a":"Perpustakaan","b":"https://example.com"},{"a":"Info beasiswa","b":"https://example.com"},{"a":"Grup WA kelas","b":"https://chat.whatsapp.com"},{"a":"Discord","b":"https://discord.com"}]
+}
